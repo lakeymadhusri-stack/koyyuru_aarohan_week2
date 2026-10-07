@@ -162,7 +162,7 @@ MEAL PLAN
   - Building incharge or wardens : Sandhya (Women warden and incharge) , Rama krishna and satya narayana (wardens gents)
   - Datapro (software training institue) with collabrate with ITDA.`;
 
-const DEFAULT_MODEL = "gemini-3.6-flash";
+const DEFAULT_MODEL = "gemini-3.7-flash";
 const MAX_TEXT_LENGTH = 2000;
 const UPSTREAM_TIMEOUT_MS = 12000;
 
